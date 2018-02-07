@@ -6,7 +6,7 @@ Create a webpage which shows a month calendar in a circular view. The days will 
 
 The total number of days on the calendar should be 42 always (this case: 1-31 May and 1-11 June). On changing the month the dates should reset.
  
-Here is an image for you to get an idea how the calendar should look. In the image the current date is highlighted in red and the black line denotes the event which starts on 8th and ends on 24th. Ignore the orange dots in the image for now.  
+A sample image is attached for you to get an idea how the calendar should look. In the image the current date is highlighted in red and the black line denotes the event which starts on 8th and ends on 24th. Ignore the orange dots in the image for now.  
 
 Bonus problem:
 
