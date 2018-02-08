@@ -6,7 +6,7 @@ Ephemeryde UI challenge:
 
 2.On clicking the next and the previous arrows the month changes to next and previous respectively and accordingly the days and dates should be changed.
  
-3. A sample image is attached for you to get an idea how the calendar should look. In the image the black line denotes an event which starts on 7th and ends on 26th.
+3. A sample image(https://github.com/nishantkg/Ephemeryde-UI-challenge/blob/master/Sample%20view.png) is attached for you to get an idea how the calendar should look. In the image the black line denotes an event which starts on 7th and ends on 26th.
 
 Bonus problem:
 Add styling to the calendar to make it aesthetically pleasing(eg. - Highlighting the current date and weekends).
